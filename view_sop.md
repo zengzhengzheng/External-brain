@@ -67,9 +67,22 @@ bootstrap 打框架，RWD
       </div>
     </div>
   </div>
-</div>
-`
+</div>`
 
+`<div class="xxx">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+       <div class="xxx">
+        <div class="xxx__xxx">
+         <div class="xxx__xxx--xxx">
+          xxx
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>`
 
 ## 第七，调整文字位置
   margin
