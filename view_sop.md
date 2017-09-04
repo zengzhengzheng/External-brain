@@ -9,10 +9,10 @@
 ## 第二
 复制黏贴
 reset.scss
-
+`cp config/database.yml.example config/database.yml`
 ## 第三comment
 
-_comment.scss
+comment.scss
 button
 avatar
 link
@@ -22,8 +22,8 @@ box
 ## 第四文件夹结构
 
 base
-  _layout.scss
-  _theme.scss
+  layout.scss
+  theme.scss
 bootstrap_wrapper
   imdex.scss
 
@@ -32,11 +32,11 @@ normailze
 
 partials
   comments
-    _comment.scss
+    comment.scss
   divise
-    _devise-overide.scss
+    devise-overide.scss
   general
-    _navbar.scss
+    navbar.scss
     serch_bar.scss
   posts
   user
