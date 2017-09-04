@@ -53,6 +53,8 @@ bootstrap 打框架，RWD
 
 
 第六，输入文字、图片内容
+
+···
 <div class="xxx">
   <div class="container">
     <div class="row">
@@ -67,6 +69,7 @@ bootstrap 打框架，RWD
     </div>
   </div>
 </div>
+···
 
 第七，调整文字位置
   margin
