@@ -1,3 +1,5 @@
+以下方式以coin hunt 为模版
+
 ## 第一先确定theme.scss
 //theme color
 //background color
